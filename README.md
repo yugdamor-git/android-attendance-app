@@ -8,13 +8,14 @@
 As I have seen many faculty having problem in managing attendance.
 So it would be very helpful if they can manage attendance easily.
 
-Solution:
+<h3><b>Solution:</b><h3><br>
+  
 1 an application that allow to manage attendance data easily
 2. Allow to search attendance data quickly.
 3. Allow to share attendance data over gmail or whatsapp with other faculty.
 
 
-ATTENDANCE: 
+<h2><b>ATTENDANCE:</b></h2> 
 1. Support almost 100% android devices
 2. All UI/UX rules followed
 3. Supports all screen types
