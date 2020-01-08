@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\All-projects\\AndroidProjects\\Attendance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "D:\\All-projects\\backup - attendance app\\Attendance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\com.service.router\\.gradle\\caches\\transforms-2\\files-2.1\\58b8cebe8fb2f63a6848cd87b8aebb39\\jetified-navigation-ui-2.1.0\\res\\values-ka\\values-ka.xml",

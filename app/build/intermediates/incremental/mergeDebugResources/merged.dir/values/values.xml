@@ -2998,6 +2998,7 @@
     <style name="splaceTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
 
 
+
     </style>
     <declare-styleable name="ActionBar">
         <!-- The type of navigation to use. -->

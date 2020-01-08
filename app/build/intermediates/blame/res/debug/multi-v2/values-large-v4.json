@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\All-projects\\AndroidProjects\\Attendance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "D:\\All-projects\\backup - attendance app\\Attendance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\com.service.router\\.gradle\\caches\\transforms-2\\files-2.1\\c75f3839b17bedcb4b3d6f068a30f9bc\\appcompat-1.0.2\\res\\values-large-v4\\values-large-v4.xml",
