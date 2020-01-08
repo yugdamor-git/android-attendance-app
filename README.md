@@ -16,10 +16,10 @@ So it would be very helpful if they can manage attendance easily.
 
 
 <h2><b>ATTENDANCE:</b></h2> 
-1. Support almost 100% android devices
-2. All UI/UX rules followed
-3. Supports all screen types
-4. Does not require any permission
+1. Support almost 100% android devices<br>
+2. All UI/UX rules followed<br>
+3. Supports all screen types<br>
+4. Does not require any permission<br>
 
 Mockup design is provided in pdf.
 
