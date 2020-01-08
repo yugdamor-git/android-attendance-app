@@ -8,11 +8,11 @@
 As I have seen many faculty having problem in managing attendance.
 So it would be very helpful if they can manage attendance easily.
 
-<h3><b>Solution:</b><h3><br>
+<h3><b>Solution:</b><h3>
   
-1 an application that allow to manage attendance data easily
-2. Allow to search attendance data quickly.
-3. Allow to share attendance data over gmail or whatsapp with other faculty.
+1 an application that allow to manage attendance data easily<br>
+2. Allow to search attendance data quickly.<br>
+3. Allow to share attendance data over gmail or whatsapp with other faculty.<br>
 
 
 <h2><b>ATTENDANCE:</b></h2> 
