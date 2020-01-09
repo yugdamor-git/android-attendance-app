@@ -34,6 +34,8 @@ I guarantee it won't harm your device. Because it does not require single permis
 
 <h1><b>Screenshots : (Mockup Design)</b></h1>
 
+<div style="overflow-x:auto;">
+
 <table>
   <tr>
     <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia5414492346889769129.png" alt="splash screen" height="540" width="270"></th>
@@ -56,6 +58,8 @@ I guarantee it won't harm your device. Because it does not require single permis
   
   
 </table>  
+
+</div>
 
 
 
