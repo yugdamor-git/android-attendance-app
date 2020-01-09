@@ -38,20 +38,20 @@ I guarantee it won't harm your device. Because it does not require single permis
 
 <table>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia5414492346889769129.png" alt="splash screen" height="540" width="270"></th>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia6915660710423669449.png" alt="home screen" height="540" width="270"></th> 
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia8757791646940202137.png" alt="add" height="540" width="270"></th>
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia5414492346889769129.png" alt="splash screen" height="540" width="270" class="responsive"></th>
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia6915660710423669449.png" alt="home screen" height="540" width="270" class ="responsive"></th> 
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia8757791646940202137.png" alt="add" height="540" width="270" class="responsive"></th>
   </tr>
   
    <tr>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia683853093017634811.png" alt="select absent no" height="540" width="270">
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia683853093017634811.png" alt="select absent no" height="540" width="270" class="responsive">
 </th>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia6922403333694959634.png" alt="share" height="540" width="270"></th> 
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia4663693882742380931%20(1).png" alt="delete" height="540" width="270"></th>
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia6922403333694959634.png" alt="share" height="540" width="270" class="responsive"></th> 
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia4663693882742380931%20(1).png" alt="delete" height="540" width="270" class="responsive"></th>
   </tr>
   
   <tr>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia1440138880119686176.png" alt="about" height="540" width="270">
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia1440138880119686176.png" alt="about" height="540" width="270" class="responsive">
 </th>
    
   </tr>
