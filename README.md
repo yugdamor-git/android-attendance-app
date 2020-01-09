@@ -38,9 +38,9 @@ I guarantee it won't harm your device. Because it does not require single permis
 
 <table>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia5414492346889769129.png" alt="splash screen" height="540" width="270" class="responsive"></th>
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia6915660710423669449.png" alt="home screen" height="540" width="270" class ="responsive"></th> 
-    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia8757791646940202137.png" alt="add" height="540" width="270" class="responsive"></th>
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia5414492346889769129.png" alt="splash screen" height="50%" width="50%" class="responsive"></th>
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia6915660710423669449.png" alt="home screen" height="50%" width="50%" class ="responsive"></th> 
+    <th><img src="https://raw.githubusercontent.com/yugdamor-git/android-attendance-app/master1/tia8757791646940202137.png" alt="add" height="50%" width="50%" class="responsive"></th>
   </tr>
   
    <tr>
